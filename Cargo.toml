@@ -7,3 +7,7 @@ links = "aardvark"
 
 [build-dependencies]
 bindgen = "0.68.1"
+
+[dependencies]
+libc = "0.2.149"
+libloading = "0.8.1"
